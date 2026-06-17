@@ -1,4 +1,4 @@
-
+https://ai.studio/apps/516cb3ac-8010-4aa8-b932-7e77aee4fc9e
 import React, { useState, useEffect } from 'react';
 import { getIndonesianGardens } from '../services/geminiService';
 
